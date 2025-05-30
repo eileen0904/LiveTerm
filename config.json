@@ -1,0 +1,33 @@
+{
+  "title": "Xin0's Website",
+  "name": "Eileen Chang",
+  "ascii": "Therealing",
+  "social": {
+    "github": "eileen0904"
+  },
+  "email": "xinlingzhang04@gmail.com",
+  "ps1_hostname": "therealing.com",
+  "ps1_username": "guest",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "/MyResume.pdf",
+  "colors": {
+    "light": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}
